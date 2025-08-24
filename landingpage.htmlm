@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Coffee Shop</title>
+</head>
+<body>
+  <div class="Header">
+    <h1>Coffee Shop <i class="fa-solid fa-store"></i></h1>
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">Menu</a></li>
+      <li><a href="">About</a></li>
+      <li><a href="">Contact</a></li>
+    </ul>
+    <div class="Login">
+    <a href="login.html"><button class="loginBtn">Login</button></a>
+    <button class="loginBtn">Sign up</button>
+    </div>
+  </div>
+
+    <div class="mainContent">
+      <section class="section">
+      <h1>Start Your Day With a <br> Fresh Coffee </h1>
+        <p>Coffee is a popular and beloved beverage enjoyed by <br>
+        people around the world</p>
+      <a href=""><button class="orderBtn">Get Started</button></a>
+      </section>
+  </div>
+    <section class="section2">
+      
+    </section>
+
+  <script src="index.js"></script>
+</body>
+</html>
